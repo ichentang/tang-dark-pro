@@ -27,7 +27,17 @@
     // status bar
     "statusBarItem.remoteForeground": "#FFF",
     "statusBarItem.remoteBackground": "#16825D",
-    "ports.iconRunningProcessForeground": "#369432"
+    // 新增
+    "ports.iconRunningProcessForeground": "#369432",
+    "statusBar.background": "#1A1A1A",
+    "statusBar.noFolderBackground": "#212121",
+    "statusBar.debuggingBackground": "#263238",
+    "editor.lineHighlightBackground": "#000000",
+    "editorLineNumber.foreground": "#2b91af",
+    "editorLineNumber.activeForeground": "#25beec",
+    "activityBar.border": "#000000",
+    "panel.border": "#000000",
+    "sideBar.border": "#000000"
   },
   "tokenColors": [
     {

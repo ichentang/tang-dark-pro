@@ -2,17 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "name": "Deep Dark Pro",
   "include": "./dark_vs.json",
-  "colors": {
-    "statusBar.background": "#1A1A1A",
-    "statusBar.noFolderBackground": "#212121",
-    "statusBar.debuggingBackground": "#263238",
-    "editor.lineHighlightBackground": "#070707",
-    "editorLineNumber.foreground": "#2b91af",
-    "editorLineNumber.activeForeground": "#25beec",
-    "activityBar.border": "#000000",
-    "panel.border": "#000000",
-    "sideBar.border": "#000000"
-  },
   "tokenColors": [
     {
       "name": "Strings", // tan
