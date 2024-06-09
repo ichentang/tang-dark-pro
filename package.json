@@ -31,6 +31,11 @@
         "label": "Color Dark Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/color-dark.json"
+      },
+      {
+        "label": "Cold Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cold-dark.json"
       }
     ]
   },
