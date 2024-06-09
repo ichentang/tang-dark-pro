@@ -36,6 +36,11 @@
         "label": "Cold Dark Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/cold-dark.json"
+      },
+      {
+        "label": "Flate Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flate-dark.json"
       }
     ]
   },
