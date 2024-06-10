@@ -345,8 +345,4 @@
       }
     }
   ],
-  "semanticHighlighting": true,
-  "semanticTokenColors": {
-    "selfKeyword": "#ff7373"
-  }
 }
