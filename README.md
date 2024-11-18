@@ -1,5 +1,11 @@
 welcome use tang-dark-pro dark theme!!!
 
+# 安装插件
+
+```
+npm i
+```
+
 # 主题打包成 VSIX 格式
 
 ```
