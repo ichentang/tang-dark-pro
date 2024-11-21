@@ -1,6 +1,6 @@
 welcome use tang-dark-pro dark theme!!!
 
-# 安装插件
+# 安装依赖
 
 ```
 npm i
