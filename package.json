@@ -2,7 +2,7 @@
   "name": "tang-dark-pro",
   "displayName": "tang dark pro",
   "description": "tang dark pro theme for VS Code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "ichentang",
   "icon": "images/icons.jpg",
   "engines": {
