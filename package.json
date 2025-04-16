@@ -2,8 +2,8 @@
   "name": "tang-dark-pro",
   "displayName": "tang dark pro",
   "description": "tang dark pro theme for VS Code",
-  "version": "1.0.4",
-  "publisher": "ichentang",
+  "version": "1.0.5",
+  "publisher": "tangshi",
   "icon": "images/icons.jpg",
   "engines": {
     "vscode": "^1.54.0"
@@ -23,14 +23,24 @@
         "path": "./themes/tang-dark.json"
       },
       {
+        "label": "Toke Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toke-dark.json"
+      },
+      {
+        "label": "Tong Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tong-dark.json"
+      },
+      {
+        "label": "Tork Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tork-dark.json"
+      },
+      {
         "label": "Tuke Dark Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/tuke-dark.json"
-      },
-      {
-        "label": "Tono Dark Pro",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tono-dark.json"
       }
     ]
   },
