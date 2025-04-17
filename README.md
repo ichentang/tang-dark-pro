@@ -12,24 +12,30 @@ npm i vscode
 vsce package
 ```
 
+# 发布插件
+
+```
+vsce publish
+```
+
 # 主题预览
 
 tang dark pro:
 
-![](images/tang.png)
+![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang.png)
 
 tang dark1 pro:
 
-![](images/tang1.png)
+![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang1.png)
 
 tang dark2 pro:
 
-![](images/tang2.png)
+![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang2.png)
 
 tang dark3 pro:
 
-![](images/tang3.png)
+![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang3.png)
 
 tang dark4 pro:
 
-![](images/tang4.png)
+![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang4.png)
