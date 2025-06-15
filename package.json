@@ -23,17 +23,17 @@
       {
         "label": "Tang Dark1 Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/tang-dark.json"
+        "path": "./themes/tang-dark1.json"
       },
       {
         "label": "Tang Dark2 Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/tang-dark1.json"
+        "path": "./themes/tang-dark2.json"
       },
       {
         "label": "Tang Dark3 Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/tang-dark2.json"
+        "path": "./themes/tang-dark3.json"
       }
     ]
   }
