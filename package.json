@@ -1,0 +1,40 @@
+{
+  "name": "tang-dark-pro",
+  "displayName": "Tang Dark Pro",
+  "description": "tang dark pro theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "tangshi",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/Guangloo/ichen-dark.git"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tang Dark1 Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tang-dark.json"
+      },
+      {
+        "label": "Tang Dark2 Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tang-dark1.json"
+      },
+      {
+        "label": "Tang Dark3 Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tang-dark2.json"
+      }
+    ]
+  }
+}
