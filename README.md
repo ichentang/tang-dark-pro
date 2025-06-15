@@ -22,12 +22,12 @@ vsce publish
 
 tang dark pro:
 
-![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang.png)
+![](images/tang1.png)
 
 tang dark1 pro:
 
-![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang1.png)
+![](images/tang2.png)
 
 tang dark2 pro:
 
-![](https://gitee.com/Guangloo/tang-dark-pro/raw/main/images/tang2.png)
+![](images/tang3.png)
